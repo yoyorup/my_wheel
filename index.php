@@ -7,3 +7,7 @@
  */
 
 define("APP_APTH", __DIR__ . "/");
+
+define("APP_DEBUG", true);
+
+require "core/myphp.php";
